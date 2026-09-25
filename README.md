@@ -32,3 +32,5 @@ Downscaling of weather forecast from Block level to Panchayat level.
 ```bash
 npm install
 npm run dev
+
+**Live Demo:** https://sih-ps26074.vercel.app/
